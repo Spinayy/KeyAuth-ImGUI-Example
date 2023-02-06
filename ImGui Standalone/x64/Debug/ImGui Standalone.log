@@ -1,0 +1,14 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+  UI.cpp
+C:\Users\Vavy\Desktop\drain.win\imgui\loaders\NewLoader-Sell\ImGui-Standalone-main\Source\ImGui Standalone\UI.cpp(294,124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Vavy\Desktop\drain.win\imgui\loaders\NewLoader-Sell\ImGui-Standalone-main\Source\ImGui Standalone\UI.cpp(313,124): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe" exited with code 1104.
+LINK : fatal error LNK1104: cannot open file 'Lib\x64\d3d11.lib'

@@ -1,0 +1,39 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+  spoof.cpp
+  UI.cpp
+C:\Users\Encrypted User\Desktop\source yes yes yes\ImGui Standalone\UI.cpp(311,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Encrypted User\Desktop\source yes yes yes\ImGui Standalone\UI.cpp(330,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Encrypted User\Desktop\source yes yes yes\ImGui Standalone\UI.cpp(356,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Encrypted User\Desktop\source yes yes yes\ImGui Standalone\UI.cpp(375,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+UI.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > version" (?version@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in spoof.obj; second definition ignored
+UI.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > ownerid" (?ownerid@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in spoof.obj; second definition ignored
+UI.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > url" (?url@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in spoof.obj; second definition ignored
+UI.obj : warning LNK4006: "class KeyAuth::api KeyAuthApp" (?KeyAuthApp@@3Vapi@KeyAuth@@A) already defined in spoof.obj; second definition ignored
+UI.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > name" (?name@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in spoof.obj; second definition ignored
+UI.obj : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > secret" (?secret@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in spoof.obj; second definition ignored
+UI.obj : warning LNK4006: "void __cdecl spoof_easy(void)" (?spoof_easy@@YAXXZ) already defined in spoof.obj; second definition ignored
+UI.obj : warning LNK4006: "int __cdecl runPE64(struct _PROCESS_INFORMATION *,struct _STARTUPINFOW *,void *,wchar_t *,unsigned __int64)" (?runPE64@@YAHPEAU_PROCESS_INFORMATION@@PEAU_STARTUPINFOW@@PEAXPEA_W_K@Z) already defined in spoof.obj; second definition ignored
+C:\Users\Encrypted User\Desktop\source yes yes yes\x64\Release\ImGui Standalone.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1860 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+library_x64.lib(auth.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(auth.obj)' or at ''; linking object as if no debug info
+library_x64.lib(utils.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(utils.obj)' or at ''; linking object as if no debug info
+library_x64.lib(hmac_sha256.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(hmac_sha256.obj)' or at ''; linking object as if no debug info
+library_x64.lib(sha256.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(sha256.obj)' or at ''; linking object as if no debug info
+* CIL library *(* CIL module *) : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > version" (?version@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in * CIL library *(* CIL module *); second definition ignored
+* CIL library *(* CIL module *) : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > ownerid" (?ownerid@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in * CIL library *(* CIL module *); second definition ignored
+* CIL library *(* CIL module *) : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > url" (?url@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in * CIL library *(* CIL module *); second definition ignored
+* CIL library *(* CIL module *) : warning LNK4006: "class KeyAuth::api KeyAuthApp" (?KeyAuthApp@@3Vapi@KeyAuth@@A) already defined in * CIL library *(* CIL module *); second definition ignored
+* CIL library *(* CIL module *) : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > name" (?name@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in * CIL library *(* CIL module *); second definition ignored
+* CIL library *(* CIL module *) : warning LNK4006: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > secret" (?secret@@3V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@A) already defined in * CIL library *(* CIL module *); second definition ignored
+C:\Users\Encrypted User\Desktop\source yes yes yes\x64\Release\ImGui Standalone.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  ImGui Standalone.vcxproj -> C:\Users\Encrypted User\Desktop\source yes yes yes\x64\Release\ImGui Standalone.exe

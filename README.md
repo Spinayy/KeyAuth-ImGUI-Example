@@ -9,10 +9,10 @@ I have seen there are ImGUI KeyAuth Examples but people seem to not be able to b
 
 
 
-I do not own KeyAuth or any other rights, I only added the code from the official KeyAuth GitHub repository and added it to my project.
-
-
 
 # https://github.com/KeyAuth 
 
-Official KeyAuth GitHub
+## Official KeyAuth GitHub
+
+
+###### I do not own KeyAuth or any other rights, I only added the code from the official KeyAuth GitHub repository and added it to my project.
